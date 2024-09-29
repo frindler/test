@@ -2,7 +2,7 @@
 <RepoConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Id>e0a80303-6d90-4e45-85c7-ec1a3a91003f</Id>
   <Name>test</Name>
-  <IsPublic>false</IsPublic>
+  <IsPublic>true</IsPublic>
   <StorageHostId>github</StorageHostId>
   <StorageName>test</StorageName>
   <RemoteName>origin</RemoteName>
