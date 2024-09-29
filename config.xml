@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RepoConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>e0a80303-6d90-4e45-85c7-ec1a3a91003f</Id>
+  <Name>test</Name>
+  <IsPublic>false</IsPublic>
+  <StorageHostId>github</StorageHostId>
+  <StorageName>test</StorageName>
+  <RemoteName>origin</RemoteName>
+  <RemoteUrl>https://github.com/frindler/test.git</RemoteUrl>
+  <ContentTypes />
+  <MembersKey>KEdY12PGc0q0d7D4H3Zi</MembersKey>
+  <Participants />
+  <ManagedBranches />
+  <SynchronizationTrigger>OnCommit</SynchronizationTrigger>
+</RepoConfiguration>
